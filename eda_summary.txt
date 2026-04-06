@@ -1,0 +1,16 @@
+
+EDA Summary - Key Business Insights
+=====================================
+Total Revenue: £8,459,455
+Total Customers: 4,334
+Total Products: 3,873
+Countries: 37
+Date Range: Dec 2010 - Dec 2011
+
+Top Country: United Kingdom (82% of revenue)
+Top Product by Revenue: Regency Cakestand 3 Tier (£142,264)
+Top Product by Volume: WW2 Gliders (54,319 units)
+Peak Month: November 2011 (£1,137,664)
+Busiest Day: Thursday
+Top Customer: 14646 (£279,138)
+80/20 Rule: Top 20% customers = 73.8% of revenue
